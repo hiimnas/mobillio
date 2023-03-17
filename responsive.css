@@ -1,0 +1,141 @@
+@media (max-width: 600px) {
+    body {
+        width: 100%;
+    }
+
+    .home-header {
+        height: 42px;
+        justify-content: center;
+    }
+
+    .home-container {
+        padding-top: 45px;
+    }
+
+    .home-left {
+        display: none;
+    }
+
+    .home-right {
+        display: none;
+    }
+
+    .home-container01 {
+        display: none;
+    }
+
+    .navbar-logo-title {
+        margin: 0;
+    }
+
+    .home-hero1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .home-container03 {
+        align-items: center;
+    }
+
+    .home-btn-group {
+        margin-bottom: 23px;
+    }
+
+    .home-cards-container {
+        display: grid;
+        grid-template-columns: 48% 48%;
+        grid-template-rows: auto auto auto auto;
+        gap: 1%;
+    }
+
+    .home-image5 {
+        max-width: 800px;
+    }
+
+    .category-card-category-card img {
+        width: 100%;
+        height: 40vw;
+    }
+
+    .home-text23 span {
+        padding: 0;
+    }
+
+    .home-full-width-banner {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .home-left4 {
+        height: fit-content;
+    }
+
+    .home-text29 {
+        margin-top: 16px;
+    }
+
+    .home-text30 {
+        width: 100%;
+        padding: 0 12px;
+    }
+
+    .home-content {
+        margin: 20px 0 0;
+    }
+
+    .home-btn {
+        margin: 12px auto 36px;
+    }
+
+    .home-image6 {
+        width: 100%;
+        height: 240px;
+    }
+
+    .section-container {
+        padding-top: 42px;
+    }
+
+    .max-width-container {
+        padding: 0 12px;
+    }
+
+    .blog-post-card-image {
+        width: 100%;
+    }
+
+    .blog-post-card-text1 {
+        margin-bottom: 24px;
+    }
+
+    .blog-post-card-image {
+        width: 100%;
+    }
+
+    .home-container08 {
+        justify-content: center;
+    }
+
+    .home-footer1 {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: flex-start;
+        padding-top: 0;
+        padding-bottom: 16px;
+    }
+
+    .home-links-container {
+        display: flex;
+        flex-direction: column;
+        padding: 80px 8vw 0;
+    }
+
+    .home-container09 {
+        margin-top: 32px;
+    }
+
+    .home-main {
+        padding-bottom: 48px;
+    }
+}
